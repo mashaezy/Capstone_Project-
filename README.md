@@ -11,5 +11,6 @@ The Goal: The primary objective of this project is crystal clear - to accurately
 Step 2: Exploratory Data Analysis (EDA)
 Step 3: Feature Engineering
 Step 4: Model Selection, Training, and Validation
+Step 5: Model Evaluation
 
 In summary, This comprehensive process allowed me to not only understand customer churn but also to build predictive models that helped ConnectTel Telecom Company make informed decisions on how to retain their customers effectively. It was a data-driven approach to solving a critical business challenge.
