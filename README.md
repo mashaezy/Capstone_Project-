@@ -1,5 +1,6 @@
 # Capstone_Project-
 ConnectTel Telecom faces a significant challenge: customer churn
+
 Today, I'm excited to share with you a project that is pivotal for ConnectTel Telecom Company, one of the leading players in the telecommunications industry. The challenge at hand is customer churn, a phenomenon that threatens the company's sustainability and growth.
 
 Step 1: Problem Definition
