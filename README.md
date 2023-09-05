@@ -1,6 +1,8 @@
 # ConnectTel Telecom
 
 ![image](https://th.bing.com/th/id/OIP.ZGyludoAbVm1A361YT1FtAHaBI?pid=ImgDet&rs=1)
+![image](https://github.com/mashaezy/Capstone_Project-/assets/138001079/a5e5ca1a-95c7-4443-9a39-5a7bc34d2cee)
+
 
 
 Today, I'm excited to share with you a project that is pivotal for ConnectTel Telecom Company, one of the leading players in the telecommunications industry. The challenge at hand is customer churn, a phenomenon that threatens the company's sustainability and growth.
